@@ -84,8 +84,6 @@ Replace the default weather icons included with the Rainmeter Sonder skin with G
 
 </td>
 
-<td width="5"></td>
-
 <td valign="top" align="center">
 
 <h3>☀️ Light icons</h3>
