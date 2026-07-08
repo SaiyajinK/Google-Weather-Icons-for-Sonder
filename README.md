@@ -131,6 +131,9 @@ Replace the default weather icons included with the Rainmeter Sonder skin with G
 </tr>
 </table>
 
+</p>
+  <img width="700" height="1" src="https://via.placeholder.com/700x1/262626/262626">
+</p>
 
 <h3 align="center">🌙 Moon phases</h3>
 
