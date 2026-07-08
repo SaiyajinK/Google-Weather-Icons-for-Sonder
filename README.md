@@ -4,6 +4,9 @@
 <p align="center"><img width="472" height="58" alt="errfs" src="https://github.com/user-attachments/assets/04c47b4d-58f4-43f6-8031-8ee2a68aa5bd" /> <img width="133" height="75" alt="refresh_reload" src="https://github.com/user-attachments/assets/f0c50858-412c-478e-b255-0ee1563a4f03" /></p>
 <p align="center">for the Sonder Rainmeter skin.</p>
 
+<a href="https://discord.gg/2qnAq8B69u">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&labelColor=262626&color=5865F2&logoColor=FFFFFF"></a>
+&nbsp;
 <a href="https://ko-fi.com/saiyajink">
   <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat&labelColor=262626&color=FF5E5B&logo=kofi&logoColor=FFFFFF"></a>
 &nbsp;
