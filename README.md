@@ -43,7 +43,7 @@ Replace the default weather icons included with the Rainmeter Sonder skin with G
 <tr>
 <td valign="top" align="center">
 
-<h3>🌙 Dark icons</h3>
+<br>`🌙 Dark icons`<br>
 
 <img src="https://github.com/user-attachments/assets/3886c0fc-f5cb-4dfb-8630-8db4e243f298">
 
@@ -86,7 +86,7 @@ Replace the default weather icons included with the Rainmeter Sonder skin with G
 
 <td valign="top" align="center">
 
-<h3>☀️ Light icons</h3>
+<br>`☀️ Light icons`<br>
 
 <img src="https://github.com/user-attachments/assets/15fdb471-092c-43b3-bff7-c17fec93745f">
 
@@ -133,7 +133,7 @@ Replace the default weather icons included with the Rainmeter Sonder skin with G
   <img width="700" height="1" src="https://via.placeholder.com/700x1/262626/262626">
 </p>
 
-<h3 align="center">🌙 Moon phases</h3>
+`🌙 Moon phases`
 
 <table align="center">
   <tr>
