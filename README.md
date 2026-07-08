@@ -54,7 +54,7 @@ Replace the default weather icons included with the Rainmeter Sonder skin with G
 | **1️⃣** | Download and install the latest release of [Rainmeter](https://www.rainmeter.net/) |
 | **2️⃣** | Download and install Sonder from [GitHub](https://github.com/mpurses/Sonder) or [DeviantArt](https://www.deviantart.com/michaelpurses/art/Sonder-Rainmeter-skin-838147223) |
 | **3️⃣** | Download the latest [icon pack](https://github.com/SaiyajinK/Sonder-Google-Weather-Icons/releases/tag/1.0) release |
-| **4️⃣** | Copy the downloaded icons and replace the original files in :<br>`%USERPROFILE%\Documents\Rainmeter\Skins\Sonder\@Resources\Weather\Icons` |
+| **4️⃣** | Run `Install.ps1` or manually copy the icons into :<br>`%USERPROFILE%\Documents\Rainmeter\Skins\Sonder\@Resources\Weather\Icons` |
 | **5️⃣** | Refresh the Rainmeter skin |
 
 </p>
