@@ -51,34 +51,34 @@ Replace the default weather icons included with the Rainmeter Sonder skin with G
 
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/32.png" width="32"><br><sub>Clear sky</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/34.png" width="32"><br><sub>Mainly clear</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/30.png" width="32"><br><sub>Partly cloudy</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/26.png" width="32"><br><sub>Overcast</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/32.png" width="24"><br><sub>Clear sky</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/34.png" width="24"><br><sub>Mainly clear</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/30.png" width="24"><br><sub>Partly cloudy</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/26.png" width="24"><br><sub>Overcast</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/31.png" width="32"><br><sub>Clear night</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/33.png" width="32"><br><sub>Mainly clear night</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/20.png" width="32"><br><sub>Fog</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/12.png" width="32"><br><sub>Rain</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/31.png" width="24"><br><sub>Clear night</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/33.png" width="24"><br><sub>Mainly clear night</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/20.png" width="24"><br><sub>Fog</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/12.png" width="24"><br><sub>Rain</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/16.png" width="32"><br><sub>Snow</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/4.png" width="32"><br><sub>Thunderstorm</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/1.png" width="32"><br><sub>Tropical storm</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/5.png" width="32"><br><sub>Rain and snow</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/16.png" width="24"><br><sub>Snow</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/4.png" width="24"><br><sub>Thunderstorm</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/1.png" width="24"><br><sub>Tropical storm</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/5.png" width="24"><br><sub>Rain and snow</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/10.png" width="32"><br><sub>Freezing rain</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/13.png" width="32"><br><sub>Snow flurries</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/18.png" width="32"><br><sub>Mixed precipitation</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/25.png" width="32"><br><sub>Blowing snow</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/10.png" width="24"><br><sub>Freezing rain</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/13.png" width="24"><br><sub>Snow flurries</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/18.png" width="24"><br><sub>Mixed precipitation</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/25.png" width="24"><br><sub>Blowing snow</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/40.png" width="32"><br><sub>Heavy rain</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/42.png" width="32"><br><sub>Heavy snow</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/27.png" width="32"><br><sub>Mostly cloudy night</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/44.png" width="32"><br><sub>Unknown</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/40.png" width="24"><br><sub>Heavy rain</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/42.png" width="24"><br><sub>Heavy snow</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/27.png" width="24"><br><sub>Mostly cloudy night</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/44.png" width="24"><br><sub>Unknown</sub></td>
   </tr>
 </table>
 
@@ -96,34 +96,34 @@ Replace the default weather icons included with the Rainmeter Sonder skin with G
 
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/32.png" width="32"><br><sub>Clear sky</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/34.png" width="32"><br><sub>Mainly clear</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/30.png" width="32"><br><sub>Partly cloudy</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/26.png" width="32"><br><sub>Overcast</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/32.png" width="24"><br><sub>Clear sky</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/34.png" width="24"><br><sub>Mainly clear</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/30.png" width="24"><br><sub>Partly cloudy</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/26.png" width="24"><br><sub>Overcast</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/31.png" width="32"><br><sub>Clear night</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/33.png" width="32"><br><sub>Mainly clear night</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/20.png" width="32"><br><sub>Fog</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/12.png" width="32"><br><sub>Rain</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/31.png" width="24"><br><sub>Clear night</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/33.png" width="24"><br><sub>Mainly clear night</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/20.png" width="24"><br><sub>Fog</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/12.png" width="24"><br><sub>Rain</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/16.png" width="32"><br><sub>Snow</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/4.png" width="32"><br><sub>Thunderstorm</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/1.png" width="32"><br><sub>Tropical storm</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/5.png" width="32"><br><sub>Rain and snow</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/16.png" width="24"><br><sub>Snow</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/4.png" width="24"><br><sub>Thunderstorm</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/1.png" width="24"><br><sub>Tropical storm</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/5.png" width="24"><br><sub>Rain and snow</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/10.png" width="32"><br><sub>Freezing rain</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/13.png" width="32"><br><sub>Snow flurries</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/18.png" width="32"><br><sub>Mixed precipitation</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/25.png" width="32"><br><sub>Blowing snow</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/10.png" width="24"><br><sub>Freezing rain</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/13.png" width="24"><br><sub>Snow flurries</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/18.png" width="24"><br><sub>Mixed precipitation</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/25.png" width="24"><br><sub>Blowing snow</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/40.png" width="32"><br><sub>Heavy rain</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/42.png" width="32"><br><sub>Heavy snow</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/27.png" width="32"><br><sub>Mostly cloudy night</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/44.png" width="32"><br><sub>Unknown</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/40.png" width="24"><br><sub>Heavy rain</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/42.png" width="24"><br><sub>Heavy snow</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/27.png" width="24"><br><sub>Mostly cloudy night</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/light_icons/44.png" width="24"><br><sub>Unknown</sub></td>
   </tr>
 </table>
 
@@ -136,14 +136,14 @@ Replace the default weather icons included with the Rainmeter Sonder skin with G
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/Moon/N.png" width="32"><br><sub>New Moon</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/Moon/WXC.png" width="32"><br><sub>Waxing Crescent</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/Moon/FQ.png" width="32"><br><sub>First Quarter</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/Moon/WXG.png" width="32"><br><sub>Waxing Gibbous</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/Moon/F.png" width="32"><br><sub>Full Moon</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/Moon/WNG.png" width="32"><br><sub>Waning Gibbous</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/Moon/LQ.png" width="32"><br><sub>Last Quarter</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/Moon/WNC.png" width="32"><br><sub>Waning Crescent</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/Moon/N.png" width="24"><br><sub>New Moon</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/Moon/WXC.png" width="24"><br><sub>Waxing Crescent</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/Moon/FQ.png" width="24"><br><sub>First Quarter</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/Moon/WXG.png" width="24"><br><sub>Waxing Gibbous</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/Moon/F.png" width="24"><br><sub>Full Moon</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/Moon/WNG.png" width="24"><br><sub>Waning Gibbous</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/Moon/LQ.png" width="24"><br><sub>Last Quarter</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/SaiyajinK/Google-Weather-Icons-for-Sonder/root/dark_icons/Moon/WNC.png" width="24"><br><sub>Waning Crescent</sub></td>
   </tr>
 </table>
 
